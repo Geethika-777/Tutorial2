@@ -1,4 +1,16 @@
 Hello World
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hai
+Aws tutorial
+Another branch dev
+=======
 Hello world2
 Hello world3
 Hello world4
+>>>>>>> main
+=======
+Hello world2
+Hello world3
+Hello world4
+>>>>>>> main
